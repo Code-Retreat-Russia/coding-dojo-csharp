@@ -1,4 +1,6 @@
-.vs
+.vs/
+.idea/
+
 bin
 obj
 TestResults
